@@ -37,11 +37,11 @@ int esq = 4;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "87ac6149dae949d6b321457571f9a543";
+char auth[] = "87ac6149dae949d6b321457571f9a543"; // change that parameter to use your node mcu
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Imperatus";
+char ssid[] = "Imperatus"; //change that parameter to use your wifi
 char pass[] = "Nescau15";
 
 void setup()
